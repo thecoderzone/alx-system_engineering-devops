@@ -1,0 +1,15 @@
+total 88
+drwxr-xr-x  14 syl  staff  448 Jun 27 18:53 .
+drwxr-xr-x   7 syl  staff  224 Jun 27 18:14 ..
+-rwxr--r--   1 syl  staff   36 Jun 27 18:15 0-hello_world
+-rwxr--r--   1 syl  staff   28 Jun 27 18:19 1-confused_smiley
+-rwxr--r--   1 syl  staff   28 Jun 27 18:21 2-hellofile
+-rwxr--r--   1 syl  staff   39 Jun 27 18:25 3-twofiles
+-rwxr--r--   1 syl  staff   36 Jun 27 18:35 4-lastlines
+-rwxr--r--   1 syl  staff   35 Jun 27 18:38 5-firstlines
+-rwxr--r--   1 syl  staff   40 Jun 27 18:44 6-third_line
+-rwxr--r--   1 syl  staff   99 Jun 27 18:49 7-file
+-rwxr--r--   1 syl  staff   36 Jun 27 18:53 8-cwd_state
+-rw-r--r--   1 syl  staff   13 Jun 27 18:14 README.md
+-rw-r--r--   1 syl  staff   12 Jun 27 18:49 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r--   1 syl  staff    0 Jun 27 18:53 ls_cwd_content
